@@ -19,6 +19,8 @@ ultron 目录下是ultron计算库相关的例子，采用了沙盒环境，无�
 
 文档地址:https://www.yuque.com/u28038194/atom
 
+version: 0.8.7
+
 计算库更新: 
 ```
 pip install --upgrade Finance-Ultron
